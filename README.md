@@ -1,12 +1,10 @@
 <div align="center">
 
-# Hi, I'm Mohanad Abu Ammar 👋
+# Hi, I'm Mohanad AbuAmmar 👋
 
-### Computer Science Student · Cybersecurity Engineering
+### Computer Engineering Student · Cybersecurity Engineering
 
-I'm a Computer Science student at UCAS Gaza, focused on **networking, cybersecurity, and Java/Python development**. I like building projects that go from a clean design on paper to something fully working and documented — from enterprise networks to OOP systems.
-
-⭐ Heading to **Albukhary International University, Malaysia** (School of Computing and Informatics) in October 2026 as an **Albukhary Foundation Scholar**, majoring in Cybersecurity Engineering.
+I'm a Computer Engineering student at UCAS Gaza, focused on **networking, cybersecurity, and Java/Python development**. I like building projects that go from a clean design on paper to something fully working and documented — from enterprise networks to OOP systems.
 
 </div>
 

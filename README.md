@@ -28,7 +28,7 @@ Full enterprise network design in Cisco Packet Tracer — VLSM addressing, stati
 
 **✈️ [GIAMS — Gaza International Airport Management System](https://github.com/cyber-mohanad/Java_2_Project)**
 
-** ## [GIAMS — Website](https://cyber-mohanad.github.io/Java_2_Project/)**
+## [GIAMS — Website](https://cyber-mohanad.github.io/Java_2_Project/)
 
 Java OOP system covering inheritance, polymorphism, custom exceptions, and file I/O, modeling airport staff and flight operations.
 

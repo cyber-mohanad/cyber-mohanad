@@ -26,7 +26,10 @@ I'm a Computer Engineering student at UCAS Gaza, focused on **networking, cybers
 **🌐 [TechStart Enterprise Network](https://github.com/cyber-mohanad/TechStart_project)**
 Full enterprise network design in Cisco Packet Tracer — VLSM addressing, static routing, DHCP, DNS/HTTP/FTP services, device hardening, and ACL-based segmentation.
 
-**✈️ [GIAMS — Gaza International Airport Management System](https://github.com/cyber-mohanad/GIAMS)**
+**✈️ [GIAMS — Gaza International Airport Management System](https://github.com/cyber-mohanad/Java_2_Project)**
+
+** ## [GIAMS — Website](https://cyber-mohanad.github.io/Java_2_Project/)**
+
 Java OOP system covering inheritance, polymorphism, custom exceptions, and file I/O, modeling airport staff and flight operations.
 
 **🖥️ [Mini HTTP Web Server](https://github.com/cyber-mohanad/mini-http-server)**

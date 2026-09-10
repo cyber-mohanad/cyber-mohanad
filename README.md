@@ -23,7 +23,7 @@ I'm a Computer Engineering student at UCAS Gaza, focused on **networking, cybers
 
 ### 🚀 Featured Projects
 
-**🌐 [TechStart Enterprise Network](https://github.com/cyber-mohanad/TechStart-Enterprise-Network)**
+**🌐 [TechStart Enterprise Network](https://github.com/cyber-mohanad/TechStart_project)**
 Full enterprise network design in Cisco Packet Tracer — VLSM addressing, static routing, DHCP, DNS/HTTP/FTP services, device hardening, and ACL-based segmentation.
 
 **✈️ [GIAMS — Gaza International Airport Management System](https://github.com/cyber-mohanad/GIAMS)**

@@ -21,7 +21,7 @@ I'm a second-year Computer Engineering student. I like building projects that go
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
 ### 🌐 TechStart Enterprise Network
 Full enterprise network design in Cisco Packet Tracer.
@@ -37,7 +37,7 @@ Java console application for managing contacts.
 
 ---
 
-## 🔗 Connect with Me
+# 🔗 Connect with Me
 
 [LinkedIn](https://www.linkedin.com/in/mohanad-abuammar) • [Instagram](https://www.instagram.com/mohanad.10.6.2007) • [TikTok](https://www.tiktok.com/@mohanedaboammar?_r=1&_t=ZS-99ebTDrxaWi) • [GitHub](https://github.com/cyber-mohanad) • [YouTube](https://youtube.com/@mohanedaboammar4858?si=rTlDNdzMMmYzMuwT)
 

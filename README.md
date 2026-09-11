@@ -4,7 +4,7 @@
 
 ### Computer Engineering Student · Cybersecurity Engineering
 
-I'm a Computer Engineering student at UCAS Gaza, focused on **networking, cybersecurity, and Java/Python development**. I like building projects that go from a clean design on paper to something fully working and documented — from enterprise networks to OOP systems.
+I'm a second-year Computer Engineering student, focused on **networking, cybersecurity, and Java/Python development**. I like building projects that go from a clean design on paper to something fully working and documented — from enterprise networks to OOP systems.
 
 </div>
 
@@ -18,6 +18,7 @@ I'm a Computer Engineering student at UCAS Gaza, focused on **networking, cybers
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Cisco Packet Tracer](https://img.shields.io/badge/Cisco%20Packet%20Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
@@ -39,10 +40,10 @@ Java console application for managing contacts in memory, with fuzzy search and 
 
 ### 🔗 Connect with Me
 
-[LinkedIn](https://www.linkedin.com/in/mohanad-abuammar) • [Instagram](https://www.instagram.com/mohanad.10.6.2007) • [GitHub](https://github.com/cyber-mohanad)
+[LinkedIn](https://www.linkedin.com/in/mohanad-abuammar) • [Instagram](https://www.instagram.com/mohanad.10.6.2007) • [TikTok](https://www.tiktok.com/@mohanedaboammar?_r=1&_t=ZS-99ebTDrxaWi) • [GitHub](https://github.com/cyber-mohanad)  • [YouTube](https://youtube.com/@mohanedaboammar4858?si=rTlDNdzMMmYzMuwT)
 
 <div align="center">
 
-📌 For collaboration or professional inquiries, reach out via **LinkedIn**.
+🚀 Always learning, building, and creating interactive experiences ✨📌 For collaboration or professional inquiries, reach out via [LinkedIn](https://www.linkedin.com/in/mohanad-abuammar).
 
 </div>

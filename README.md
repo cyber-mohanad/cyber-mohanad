@@ -2,14 +2,13 @@
 
 # Hi, I'm Mohanad AbuAmmar 👋
 
-## Computer Engineering Student · Cybersecurity Engineering
+**Computer Engineering Student · Cybersecurity Engineering**
 
 I'm a second-year Computer Engineering student. I like building projects that go from a clean design on paper to something fully working and documented.
 
 ---
 
 ## 🎯 Skills & Technologies
----
 
 <p align="center">
   <img src="https://img.shields.io/badge/JAVA-orange?style=for-the-badge&logo=java&logoColor=white" />

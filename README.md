@@ -31,13 +31,13 @@ I'm a second-year Computer Engineering student focused on Cybersecurity Engineer
 ### 🌐 [TechStart Enterprise Network](https://github.com/cyber-mohanad/TechStart_project)
 Multi-department enterprise network built in Cisco Packet Tracer.
 
-### ✈️ GIAMS — Gaza International Airport Management System
+### ✈️ [GIAMS — Gaza International Airport Management System](https://github.com/cyber-mohanad/Java_2_Project)
 Java OOP airport management system.
 
 ### 🖥️ Mini HTTP Web Server
 Lightweight HTTP web server built from raw sockets in Python.
 
-### 📖 Address Book Management System
+### 📖 [Address Book Management System](https://github.com/cyber-mohanad/address-book-management-system)
 Java console app for managing contacts.
 
 ---

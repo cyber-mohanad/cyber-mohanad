@@ -2,11 +2,9 @@
 
 # Hi, I'm Mohanad AbuAmmar 👋
 
-### Computer Engineering Student · Cybersecurity Engineering
+#### Computer Engineering Student · Cybersecurity Engineering
 
-I'm a second-year Computer Engineering student, focused on networking, cybersecurity, and Java/Python development. I like building projects that go from a clean design on paper to something fully working and documented — from enterprise networks to OOP systems.
-
-⭐ Explore my **Portfolio** to see projects and more!
+I'm a second-year Computer Engineering student. I like building projects that go from a clean design on paper to something fully working and documented.
 
 ---
 

@@ -25,26 +25,24 @@ I'm a second-year Computer Engineering student. I like building projects that go
 ## 🚀 Featured Projects
 
 ### 🌐 TechStart Enterprise Network
-Full enterprise network design in Cisco Packet Tracer — VLSM addressing, static routing, DHCP, DNS/HTTP/FTP services, device hardening, and ACL-based segmentation.
+Full enterprise network design in Cisco Packet Tracer.
 
 ### ✈️ GIAMS – Gaza International Airport Management System
-Java OOP system covering inheritance, polymorphism, custom exceptions, and file I/O, modeling airport staff and flight operations.
+Java OOP system covering inheritance, polymorphism, custom exceptions, and file I/O.
 
 ### 🖥️ Mini HTTP Web Server
-A lightweight HTTP web server built from raw sockets in Python for a network programming course.
+A lightweight HTTP web server built from raw sockets in Python.
 
 ### 📖 Address Book Management System
-Java console application for managing contacts in memory, with fuzzy search and duplicate-safe phone handling.
+Java console application for managing contacts.
 
 ---
 
 ## 🔗 Connect with Me
 
-[LinkedIn](https://linkedin.com) • [Instagram](https://instagram.com) • [TikTok](https://tiktok.com) • [GitHub](https://github.com) • [YouTube](https://youtube.com)
+[LinkedIn](https://www.linkedin.com/in/mohanad-abuammar) • [Instagram](https://www.instagram.com/mohanad.10.6.2007) • [TikTok](https://www.tiktok.com/@mohanedaboammar?_r=1&_t=ZS-99ebTDrxaWi) • [GitHub](https://github.com/cyber-mohanad) • [YouTube](https://youtube.com/@mohanedaboammar4858?si=rTlDNdzMMmYzMuwT)
 
 <br>
-
-🚀 Always learning, building, and creating interactive experiences ✨  
-📌 For collaboration or professional inquiries, reach out via [LinkedIn](https://linkedin.com).
+🚀 Always learning, building, and creating interactive experiences ✨ 📌 For collaboration or professional inquiries, reach out via [LinkedIn](https://www.linkedin.com/in/mohanad-abuammar).
 
 </div>

@@ -28,17 +28,17 @@ I'm a second-year Computer Engineering student focused on Cybersecurity Engineer
 
 ## 🚀 Featured Projects
 
-### 🌐 TechStart Enterprise Network
-Multi-department enterprise network built in Cisco Packet Tracer — VLSM subnetting, DHCP, static routing, DNS/HTTP/FTP, and SSH.
+### 🌐 [TechStart Enterprise Network](https://github.com/cyber-mohanad/TechStart_project)
+Multi-department enterprise network built in Cisco Packet Tracer.
 
 ### ✈️ GIAMS — Gaza International Airport Management System
-Java OOP airport management system covering abstract classes, inheritance, polymorphism, custom exceptions, and file I/O.
+Java OOP airport management system.
 
 ### 🖥️ Mini HTTP Web Server
-Lightweight HTTP web server built from raw sockets in Python — parses requests, serves static files, and handles 404s.
+Lightweight HTTP web server built from raw sockets in Python.
 
 ### 📖 Address Book Management System
-Java console app for managing contacts — in-memory storage, contact types, duplicate prevention, and smart search.
+Java console app for managing contacts.
 
 ---
 

@@ -34,7 +34,7 @@ Multi-department enterprise network built in Cisco Packet Tracer.
 ### ✈️ [GIAMS — Gaza International Airport Management System](https://github.com/cyber-mohanad/Java_2_Project)
 Java OOP airport management system.
 
-### 🖥️ Mini HTTP Web Server
+### 🖥️ [Mini HTTP Web Server](https://github.com/cyber-mohanad/Mini_HTTP_Web_Server)
 Lightweight HTTP web server built from raw sockets in Python.
 
 ### 📖 [Address Book Management System](https://github.com/cyber-mohanad/address-book-management-system)

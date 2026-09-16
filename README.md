@@ -40,6 +40,9 @@ Lightweight HTTP web server built from raw sockets in Python.
 ### 📖 [Address Book Management System](https://github.com/cyber-mohanad/Java_1_Project)
 Java console app for managing contacts.
 
+### 💻 [Simple web page](https://github.com/cyber-mohanad/html_project)
+simple web page design by using HTML and CSS.
+
 ---
 
 ## 🔗 Connect with Me

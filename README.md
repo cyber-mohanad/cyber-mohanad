@@ -49,7 +49,7 @@ simple web page design by using HTML and CSS.
 
 <div align="center">
 
-[LinkedIn](https://www.linkedin.com/in/mohanad-abuammar) • [Instagram](https://www.instagram.com/mohanad.10.6.2007) • [TikTok](tiktok.com/@cyber.mohanad) • [GitHub](https://github.com/cyber-mohanad) • [YouTube](https://youtube.com/@mohanedaboammar4858?si=rTlDNdzMMmYzMuwT)
+[LinkedIn](https://www.linkedin.com/in/mohanad-abuammar) • [Instagram](https://www.instagram.com/mohanad.10.6.2007) • [TikTok](https://www.tiktok.com/@cyber.mohanad) • [GitHub](https://github.com/cyber-mohanad) • [YouTube](https://youtube.com/@mohanedaboammar4858?si=rTlDNdzMMmYzMuwT)
 
 </div>
 
